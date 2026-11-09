@@ -1,0 +1,28 @@
+# Observing locations
+# latitude/longitude: decimal degrees, north and east positive
+# elevation: metres; utc_offset: standard-time hours east of UT
+locations:
+  - name: "Chapada Diamantina dark site"
+    latitude: -12.560000
+    longitude: -41.390000
+    elevation: 1100
+    utc_offset: -3.0
+    dst: false
+  - name: "Greenwich"
+    latitude: 51.477900
+    longitude: 0.000000
+    elevation: 46
+    utc_offset: 0.0
+    dst: false
+  - name: "Piracaia"
+    latitude: -23.054011
+    longitude: -46.359761
+    elevation: 800
+    utc_offset: -3.0
+    dst: false
+  - name: "Salvador — Farol da Barra"
+    latitude: -13.010300
+    longitude: -38.532600
+    elevation: 12
+    utc_offset: -3.0
+    dst: false
